@@ -1,0 +1,5 @@
+cmd=new-name
+
+find . type f -exec sed "s/__COMMAND_NAME__/$cmd/" -i {} \+
+mv __COMMAND_NAME__ $cmd
+

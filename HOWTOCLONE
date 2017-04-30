@@ -1,0 +1,2 @@
+#git clone file://${HOME}/git/bash-command-line.git
+#git remote add origin file://${HOME}/git/bash-command-line.git

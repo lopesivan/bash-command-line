@@ -1,0 +1,17 @@
+{
+  "id":{
+    "version": "2.1",
+    "name": "__COMMAND_NAME__"
+  },
+  "__COMMAND_NAME__": [
+    {
+      "command": "completions",
+      "description": "lista todas as opções"
+    },
+    {
+      "command": "help",
+      "description": "exibe um menu de ajuda"
+    }
+  ]
+}
+
